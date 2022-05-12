@@ -183,6 +183,8 @@ bd <- df22 %>%
   select(nm_mun_2014, year.x, inflation, reelect, fedalign, governoralign, priceindex, unemp, lnexppc, elected, muni_code)
 
 bd <- bd[order(bd$nm_mun_2014),]
+
+# Renomeando colunas
 names(bd)[2] <- "year"
 names(bd)[1] <- "muni_name"
 names(bd)[3] <- "commodities"
