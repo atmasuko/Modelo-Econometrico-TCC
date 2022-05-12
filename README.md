@@ -1,5 +1,5 @@
 # Modelagem-Econométrica-TCC
-Código com a modelagem econométrica utilizada na monografia de fim de curso (FGV - Relações Internacionais)
+Código contendo a modelagem econométrica utilizada na monografia de fim de curso (FGV - Relações Internacionais)
 
 Tema de Pesquisa: Em que medida variações nos preços internacionais de commodities afetam a taxa de eleição de prefeitos e governadores no Brasil? Uma análise subnacional das eleições municipais entre 2000-2014.
 
